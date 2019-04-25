@@ -126,15 +126,6 @@ header h1 {
 	font-size: 30px;
 	font-weight: 600;
 	line-height: 30px;
-	border-radius: 50px;
-	-webkit-animation: mysecond 5s linear 2s infinite alternate;
-}
-@-webkit-keyframes mysecond {
-	0%   {color:#EDEDED;}
-	25%  {color:#9D9D9D;} 
-	50%  {color:#9D9D9D;}
-	75%  {color:#747474;}
-	100% {color:#535353;}
 }
 footer {
 	padding-top: 50px;
